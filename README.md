@@ -6,7 +6,7 @@ This page is used to inform visitors regarding policies with the collection, use
 
 If you choose to use this Service, then you agree to the collection and use of information in relation to this policy. The Personal Information collected is used for providing and improving the Service. This information will not be uses or shares with anyone except as described in this Privacy Policy.
 
-Information Collection and Use
+# Information Collection and Use
 
 For a better experience, while using the Service, certain personally identifiable information will be used. This information is not collected by FragmentsTech in any way.
 
@@ -37,6 +37,8 @@ To provide the Service on the behalf of FragmentsTech;
 To perform Service-related services; or
 To assist FragmentsTech in analyzing how the Service is used.
 These third parties may have access to your Personal Information. The reason is to perform the tasks assigned to them. However, they are obligated not to disclose or use the information for any other purpose.
+
+These service providers have been identified above.
 
 # Security
 
